@@ -1,3 +1,3 @@
 # Python_Project
 
-# Getting back to basics
+Remembering how to code 1 line at a time. 
